@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "sbefm"
+baseurl: ""
 url: ""
 
 # THEME-SPECIFIC CONFIGURATION
