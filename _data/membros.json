@@ -1,0 +1,920 @@
+[  
+    {
+        "model": "appsbefm.associado",
+        "pk": 1,
+        "fields": {
+            "first_name": "Napoleão Schoeller de Azevedo Júnior",
+            "lattes": "http://lattes.cnpq.br/2056204070627713",
+            "instituicao": "UNILA"
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 2,
+        "fields": {
+            "first_name": "Alfredo Santiago Culleton",
+            "lattes": "http://lattes.cnpq.br/1692292875405642",
+            "instituicao": "UNISINOS - Universidade do Vale do Rio dos Sinos"
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 3,
+        "fields": {
+            "first_name": "Matteo Raschietti",
+            "lattes": "http://lattes.cnpq.br/6524014877234311",
+            "instituicao": "UFABC"
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 4,
+        "fields": {
+            "first_name": "William Saraiva Borges",
+            "lattes": "http://lattes.cnpq.br/1103592810603982",
+            "instituicao": "Universidade Federal de Pelotas (UFPel)"
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 5,
+        "fields": {
+            "first_name": "Thiago Soares Leite",
+            "lattes": "http://lattes.cnpq.br/7168192562090741",
+            "instituicao": "Universidade Federal da Fronteira Sul - Campus Erechim"
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 6,
+        "fields": {
+            "first_name": "RODRIGO APARECIDO DE GODOI",
+            "lattes": "http://lattes.cnpq.br/4031940072922450",
+            "instituicao": "FACULDADE CATÓLICA DE POUSO ALEGRE"
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 7,
+        "fields": {
+            "first_name": "Sérgio Del' Arco Filho",
+            "lattes": "http://lattes.cnpq.br/2646428927155045",
+            "instituicao": "Unesp - campus de Marília"
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 8,
+        "fields": {
+            "first_name": "Juvenal Savian Filho",
+            "lattes": "http://lattes.cnpq.br/4408958484765167",
+            "instituicao": "Unifesp"
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 9,
+        "fields": {
+            "first_name": "PEDRO GILBERTO DA SILVA LEITE JUNIOR",
+            "lattes": "http://lattes.cnpq.br/2209475290542494",
+            "instituicao": "Universidade Federal de Pelotas"
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 10,
+        "fields": {
+            "first_name": "Matheus Jeske Vahl",
+            "lattes": "CV: http://lattes.cnpq.br/0162218728151259",
+            "instituicao": "Universidade Federal de Pelotas"
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 11,
+        "fields": {
+            "first_name": "ISMAIR MAX PEREIRA DE DEUS",
+            "lattes": "http://lattes.cnpq.br/1151579158608296",
+            "instituicao": "FACEL"
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 12,
+        "fields": {
+            "first_name": "Luís Carlos Silva de Sousa",
+            "lattes": "http://lattes.cnpq.br/9475060856310114",
+            "instituicao": "Universidade da Integração Internacional da Lusofonia Afro-Brasileira (UNILAB/CE)."
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 13,
+        "fields": {
+            "first_name": "Leandro da Silva Bertoncello",
+            "lattes": "http://lattes.cnpq.br/3399641740923895",
+            "instituicao": "Unisinos"
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 14,
+        "fields": {
+            "first_name": "Régis Franco Casarin",
+            "lattes": "http://lattes.cnpq.br/0066331031065642",
+            "instituicao": "Colégio Evangélico Alberto Torres"
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 15,
+        "fields": {
+            "first_name": "Ricardo Evangelista Brandão",
+            "lattes": "Lattes.cnpq.br/260669603410548",
+            "instituicao": "Instituto Federal de Pernambuco"
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 16,
+        "fields": {
+            "first_name": "AUGUSTO LEANDRO ROCHA DA SILVEIRA",
+            "lattes": "http://lattes.cnpq.br/6433988770099966",
+            "instituicao": "Instituto Brasileiro de Filosofia e Ciência Raimundo Lúlio - Ramon Llull"
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 17,
+        "fields": {
+            "first_name": "Renata Floriano de Sousa",
+            "lattes": "http://lattes.cnpq.br/7373004870254534",
+            "instituicao": "PUCRS"
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 18,
+        "fields": {
+            "first_name": "Diego Fragoso Pereira",
+            "lattes": "http://lattes.cnpq.br/6653520221431394",
+            "instituicao": "Faculdade São Luiz"
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 19,
+        "fields": {
+            "first_name": "Ana Luiza Diniz Barreto",
+            "lattes": " - ",
+            "instituicao": "Particular"
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 20,
+        "fields": {
+            "first_name": "Lúcio Álvaro Marques",
+            "lattes": "CV: http://lattes.cnpq.br/1088648968757632",
+            "instituicao": "Universidade Federal do Triângulo Mineiro (UFTM)"
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 21,
+        "fields": {
+            "first_name": "Sílvia Maria de Contaldo",
+            "lattes": "http://lattes.cnpq.br/3941343383404942",
+            "instituicao": "Pontifícia Universidade  Católica de Minas Gerais"
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 22,
+        "fields": {
+            "first_name": "Regis Franco Casarin",
+            "lattes": "http://lattes.cnpq.br/0066331031065642",
+            "instituicao": "Colégio Evangélico Alberto Torres"
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 23,
+        "fields": {
+            "first_name": "Grasiela Strey",
+            "lattes": "http://lattes.cnpq.br/1322774536074670",
+            "instituicao": "Instituição Evangélica de Novo Hamburgo"
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 24,
+        "fields": {
+            "first_name": "Marcus Paulo Rycembel Boeira",
+            "lattes": "http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4263997P6",
+            "instituicao": "Universidade Federal do Rio Grande do Sul"
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 25,
+        "fields": {
+            "first_name": "Maurício Medeiros Vieira",
+            "lattes": "http://lattes.cnpq.br/3401699981196855",
+            "instituicao": "Universidade Federal de Pelotas"
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 26,
+        "fields": {
+            "first_name": "Andrei Pedro Vanin",
+            "lattes": "http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4328320D6",
+            "instituicao": "Universidade Federal de São Paulo - Unifesp - Campus Guarulhos"
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 27,
+        "fields": {
+            "first_name": "Daiane Rodrigues Costa",
+            "lattes": "http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K8137236Y7",
+            "instituicao": "Universidade de Passo Fundo"
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 28,
+        "fields": {
+            "first_name": "Renata Floriano de Sousa",
+            "lattes": "http://lattes.cnpq.br/7373004870254534",
+            "instituicao": "PUCRS"
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 29,
+        "fields": {
+            "first_name": "Carlos Bezerra de Lima Júnior",
+            "lattes": "http://lattes.cnpq.br/4553473114611205",
+            "instituicao": "E. E. 11 de Agosto"
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 30,
+        "fields": {
+            "first_name": "DAIANE RODRIGUES COSTA",
+            "lattes": "http://lattes.cnpq.br/7291433553630261",
+            "instituicao": "Universidade de Passo Fundo"
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 31,
+        "fields": {
+            "first_name": "Régis Franco Casarin",
+            "lattes": "http://lattes.cnpq.br/0066331031065642",
+            "instituicao": "Colégio Evangélico Alberto Torres"
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 32,
+        "fields": {
+            "first_name": "Diego Fragoso Pereira",
+            "lattes": "http://lattes.cnpq.br/6653520221431394",
+            "instituicao": "Faculdade São Luiz"
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 33,
+        "fields": {
+            "first_name": "Gabriel Guilherme Frigo",
+            "lattes": "http://lattes.cnpq.br/4355228968544489",
+            "instituicao": "UNIVERSIDADE DE CAXIAS DO SUL (UCS)"
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 34,
+        "fields": {
+            "first_name": "Cleber Duarte Coelho",
+            "lattes": "http://lattes.cnpq.br/3684918892816876",
+            "instituicao": "UFSC"
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 35,
+        "fields": {
+            "first_name": "Julian Ritzel Farret",
+            "lattes": "http://lattes.cnpq.br/3190046202752029",
+            "instituicao": "UFPel"
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 36,
+        "fields": {
+            "first_name": "Nilo César Batista da Silva",
+            "lattes": "http://lattes.cnpq.br/4116174081912984",
+            "instituicao": "Universidade Federal do Cariri. UFCA"
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 37,
+        "fields": {
+            "first_name": "Maria Célia dos Santos",
+            "lattes": "http://lattes.cnpq.br/4412974216948045",
+            "instituicao": "Universidade Federal do Cariri - UFCA"
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 38,
+        "fields": {
+            "first_name": "Eduarda Brum Marquetto",
+            "lattes": "http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K8479200U1",
+            "instituicao": "Universidade Franciscana"
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 39,
+        "fields": {
+            "first_name": "Alessandro Jocelito Beccari",
+            "lattes": "http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4736803P6",
+            "instituicao": "Unesp"
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 40,
+        "fields": {
+            "first_name": "Lucas Nogueira Borges",
+            "lattes": "http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4429694H2",
+            "instituicao": "Universidade Federal de Uberlândia"
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 41,
+        "fields": {
+            "first_name": "Luana Talita da Cruz",
+            "lattes": "http://lattes.cnpq.br/2657352635830405",
+            "instituicao": "UFPel"
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 42,
+        "fields": {
+            "first_name": "Douglas Chaves de Souza",
+            "lattes": "http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4305784P5",
+            "instituicao": "UEM/UFPel"
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 43,
+        "fields": {
+            "first_name": "Everton Grein",
+            "lattes": "http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4710782T6",
+            "instituicao": "Universidade Estadual do Paraná Campus de União da Vitória"
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 44,
+        "fields": {
+            "first_name": "Nara Martini Bigolin",
+            "lattes": "http://lattes.cnpq.br/4516693860080592",
+            "instituicao": "UFSM"
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 45,
+        "fields": {
+            "first_name": "WELLINGTON LUCAS BELISARIO DA SILVA",
+            "lattes": "http://lattes.cnpq.br/9207524213891186",
+            "instituicao": "UFPEL"
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 46,
+        "fields": {
+            "first_name": "Lucilene Silva Garcia",
+            "lattes": "http://lattes.cnpq.br/4026561532040064",
+            "instituicao": "Universidade Federal de Pelotas- UFPel"
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 47,
+        "fields": {
+            "first_name": "Jean Pantoja Santos",
+            "lattes": "http://lattes.cnpq.br/5468376540459598",
+            "instituicao": "UFBA"
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 48,
+        "fields": {
+            "first_name": "Maurício Medeiros Vieira",
+            "lattes": "http://lattes.cnpq.br/3401699981196855",
+            "instituicao": "Universidade Federal de Pelotas"
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 49,
+        "fields": {
+            "first_name": "Noeli Dutra Rossatto",
+            "lattes": "http://lattes.cnpq.br/2947312243186882",
+            "instituicao": "Universidade Federal de Santa Maria-UFSM"
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 50,
+        "fields": {
+            "first_name": "Camila Ezídio",
+            "lattes": "http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4462746U3",
+            "instituicao": "UFBA"
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 51,
+        "fields": {
+            "first_name": "Joel Gracioso",
+            "lattes": "http://lattes.cnpq.br/6759445988301298",
+            "instituicao": "Faculdade São Bento de São Paulo"
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 52,
+        "fields": {
+            "first_name": "Marco Aurelio Oliveira da Silva",
+            "lattes": "http://lattes.cnpq.br/5975737116317202",
+            "instituicao": "UFBA"
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 53,
+        "fields": {
+            "first_name": "Kleyton Duarte de Souza",
+            "lattes": "https://wwws.cnpq.br/cvlattesweb/pkg_cv_estr.inicio",
+            "instituicao": "Inst. Opera Hominis"
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 54,
+        "fields": {
+            "first_name": "M IVONE P M FEDELI",
+            "lattes": "http://lattes.cnpq.br/4831697646412740",
+            "instituicao": "Pontifícia Universidade Católica de São Paulo - PUC-SP"
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 55,
+        "fields": {
+            "first_name": "Arthur da Silva Pinto",
+            "lattes": "http://lattes.cnpq.br/6829158661348654",
+            "instituicao": "PUC-RS"
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 56,
+        "fields": {
+            "first_name": "carina dos santos de campos",
+            "lattes": "http://lattes.cnpq.br/9448082486017337",
+            "instituicao": "UFPEL"
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 57,
+        "fields": {
+            "first_name": "Gustavo Joaquim Marques Martins Machado",
+            "lattes": "http://lattes.cnpq.br/7668537065905331",
+            "instituicao": "Universidade Estadual de Maringá"
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 58,
+        "fields": {
+            "first_name": "Paulo Ricardo Martines",
+            "lattes": "http://lattes.cnpq.br/6842263032845173",
+            "instituicao": "Universidade Estadual de Maringá"
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 59,
+        "fields": {
+            "first_name": "Schaiane Pâmela Bonissoni",
+            "lattes": "http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K8654427Z0",
+            "instituicao": "Universidade do Vale do Rio dos Sinos - Unisinos"
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 60,
+        "fields": {
+            "first_name": "Darlan Paulo Lorenzetti",
+            "lattes": "http://lattes.cnpq.br/1456241272721046",
+            "instituicao": "Pontifícia Universidade Católica do Rio Grande do Sul"
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 61,
+        "fields": {
+            "first_name": "ANDREY IVANOV",
+            "lattes": "http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4786646A1",
+            "instituicao": "Universidade Estadual Paulista (Unesp)"
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 62,
+        "fields": {
+            "first_name": "Sérgio Ricardo Strefling",
+            "lattes": "http://lattes.cnpq.br/5956718110743667",
+            "instituicao": "Universidade Federal de Pelotas"
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 63,
+        "fields": {
+            "first_name": "Stéfano Paschoal",
+            "lattes": "http://lattes.cnpq.br/1273787600427338",
+            "instituicao": "Universidade Federal de Uberlândia"
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 64,
+        "fields": {
+            "first_name": "Rafael Koerig Gessinger",
+            "lattes": "http://lattes.cnpq.br/2424003485451657",
+            "instituicao": "Instituto de Educação São José (pro bono)"
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 65,
+        "fields": {
+            "first_name": "Ailton Ferreira Batista",
+            "lattes": "http://lattes.cnpq.br/2811990011041470",
+            "instituicao": "Particular"
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 66,
+        "fields": {
+            "first_name": "Gonzalo Tinajeros",
+            "lattes": "https://orcid.org/0000-0003-4510-4906",
+            "instituicao": "PUCRS"
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 67,
+        "fields": {
+            "first_name": "Samanta Rodrigues",
+            "lattes": "http://lattes.cnpq.br/6164480060519749",
+            "instituicao": "UFRGS"
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 68,
+        "fields": {
+            "first_name": "Otávio de Lima e Silva",
+            "lattes": "http://lattes.cnpq.br/0457476639089350",
+            "instituicao": "UFMS"
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 69,
+        "fields": {
+            "first_name": "Ivonei Fraga Dos Santos",
+            "lattes": ". Com",
+            "instituicao": "Agbcvsbc"
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 70,
+        "fields": {
+            "first_name": "Gabriel Guilherme Frigo",
+            "lattes": "http://lattes.cnpq.br/4355228968544489",
+            "instituicao": "UNIVERSIDADE DE CAXIAS DO SUL (UCS)"
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 71,
+        "fields": {
+            "first_name": "Luis Felipe Alves Oliveira",
+            "lattes": "http://lattes.cnpq.br/7214292337210300",
+            "instituicao": "Universidade Estadual de Campinas (UNICAMP)"
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 72,
+        "fields": {
+            "first_name": "Guido J. Alt",
+            "lattes": "http://lattes.cnpq.br/9471664677739433",
+            "instituicao": "Universidade de Colonia/Universidade de Estocolmo"
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 73,
+        "fields": {
+            "first_name": "Carlos Arthur Ribeiro do Nascimento",
+            "lattes": "http://lattes.cnpq.br/2503183765651864",
+            "instituicao": "Aposentado"
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 74,
+        "fields": {
+            "first_name": "Elói Maia de Oliveira",
+            "lattes": "http://lattes.cnpq.br/2344548140739510",
+            "instituicao": "UNESP/Marília"
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 75,
+        "fields": {
+            "first_name": "Ivo Fernando da Costa",
+            "lattes": "http://lattes.cnpq.br/3800293652474531",
+            "instituicao": "Universidade Federal do Paraná"
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 76,
+        "fields": {
+            "first_name": "Érico Teixeira",
+            "lattes": "http://lattes.cnpq.br/5859508649477892",
+            "instituicao": "Universidade Federal do Pará"
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 77,
+        "fields": {
+            "first_name": "Mendelson Branco da Silva",
+            "lattes": "http://lattes.cnpq.br/9949823322864487",
+            "instituicao": "Provincia Franciscana de Santo Antonio do Brasil."
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 78,
+        "fields": {
+            "first_name": "Uellinton Valentim Corsi",
+            "lattes": "http://lattes.cnpq.br/9252808194783358",
+            "instituicao": "PUCRS"
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 79,
+        "fields": {
+            "first_name": "UELLINTON VALENTIM CORSI",
+            "lattes": "http://lattes.cnpq.br/9252808194783358",
+            "instituicao": "PUCRS"
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 80,
+        "fields": {
+            "first_name": "Leonardo Tondato de Mello",
+            "lattes": "http://lattes.cnpq.br/3660461563209441",
+            "instituicao": "Unip"
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 81,
+        "fields": {
+            "first_name": "Jorgy Felipe Rosa Artilles",
+            "lattes": " - ",
+            "instituicao": "Unyead"
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 82,
+        "fields": {
+            "first_name": "Josadaque Martins Silva",
+            "lattes": "http://lattes.cnpq.br/1500445030267870",
+            "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso (IFMT)"
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 83,
+        "fields": {
+            "first_name": "MATHEUS CAIO DE JESUS QUEIROZ",
+            "lattes": "Professor de Filosofia formado pela UFPa.",
+            "instituicao": "Graduado pela UFPa."
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 84,
+        "fields": {
+            "first_name": "Marcone Costa Cerqueira",
+            "lattes": "http://lattes.cnpq.br/8669846807783868",
+            "instituicao": "Néfipo - Núcleo de Ética e Filosofia Política."
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 85,
+        "fields": {
+            "first_name": "Rafael Marinho Pinheiro",
+            "lattes": "http://lattes.cnpq.br/1540313058762876",
+            "instituicao": "Associação Templária Internacional"
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 86,
+        "fields": {
+            "first_name": "Uberlam Jesus de França",
+            "lattes": "http://lattes.cnpq.br/3333766968602736",
+            "instituicao": "Colégio Estadual Luís Cabral - Canudos/BA"
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 87,
+        "fields": {
+            "first_name": "Gilson Damasceno Linhares",
+            "lattes": "http://lattes.cnpq.br/7751656781225413",
+            "instituicao": "UFBA"
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 89,
+        "fields": {
+            "first_name": "CYRO PEREIRA DA CUNHA FILHO",
+            "lattes": "LETRAS  :  PORTUGUÊS/INGLÊS  .",
+            "instituicao": "Instituto Brasileiro de Filosofia e Ciência  RAMON LLULL."
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 90,
+        "fields": {
+            "first_name": "Wilson Coimbra Lemke",
+            "lattes": "http://lattes.cnpq.br/5023059856695287",
+            "instituicao": "UFES"
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 91,
+        "fields": {
+            "first_name": "Yasser Capistrano Yusuf",
+            "lattes": "Avenida Araguaia  - Cuiabá MT",
+            "instituicao": "Cruzeiro do Sul"
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 92,
+        "fields": {
+            "first_name": "Wilson Coimbra Lemke",
+            "lattes": "http://lattes.cnpq.br/5023059856695287",
+            "instituicao": "Universidade Federal do Espírito Santo"
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 94,
+        "fields": {
+            "first_name": "João Victor de Souza Silva",
+            "lattes": "http://lattes.cnpq.br/8602899974662325",
+            "instituicao": "UFJF"
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 95,
+        "fields": {
+            "first_name": "Kelvin Amorim de Melo",
+            "lattes": "http://lattes.cnpq.br/3620298836059463",
+            "instituicao": "PUCRS"
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 97,
+        "fields": {
+            "first_name": "Ricardo Luiz Silveira da Costa",
+            "lattes": "http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=B727344",
+            "instituicao": "UFES"
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 98,
+        "fields": {
+            "first_name": "Nicolás Lázaro",
+            "lattes": "https://www.conicet.gov.ar/new_scp/detalle.php?id=48708&datos_academicos=yes",
+            "instituicao": "CONICET-UNR, UCSF"
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 99,
+        "fields": {
+            "first_name": "João Gabriel Haiek Elid Nascimento",
+            "lattes": "http://lattes.cnpq.br/9087803180697938",
+            "instituicao": "UNESP"
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 100,
+        "fields": {
+            "first_name": "Cezar Cardoso de Souza Neto",
+            "lattes": "http://lattes.cnpq.br/0445166817190132",
+            "instituicao": "Faculdade de Direito de Ribeirão Preto da Universidade de São Paulo (FDRP USP)"
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 101,
+        "fields": {
+            "first_name": "Marlo do Nascimento",
+            "lattes": "http://lattes.cnpq.br/8489653223832171",
+            "instituicao": "Universidade do Vale do Rio dos Sinos - UNISINOS"
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 111,
+        "fields": {
+            "first_name": "Pedro Konzen Capra",
+            "lattes": "http://lattes.cnpq.br/4904926945219534",
+            "instituicao": "Doutorando na UFRGS"
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 112,
+        "fields": {
+            "first_name": "Rodrigo Camilo Camargo",
+            "lattes": "http://lattes.cnpq.br/2749079631587057",
+            "instituicao": "Universidade Federal do Rio Grande do Sul"
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 113,
+        "fields": {
+            "first_name": "Márcio Fernandes da Cruz",
+            "lattes": "http://lattes.cnpq.br/7083019418011289",
+            "instituicao": "PUC Minas"
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 114,
+        "fields": {
+            "first_name": "José Carlos de Castro Dantas",
+            "lattes": "http://lattes.cnpq.br/6108625523325213",
+            "instituicao": "Universidade Estadual do Maranhão"
+        }
+    }
+]
