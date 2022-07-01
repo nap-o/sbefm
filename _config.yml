@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "sbefm"
-url: ""
+#baseurl: "sbefm"
+url: "http://sbefm.com"
 
 # THEME-SPECIFIC CONFIGURATION
 title: SBEFM                                            # site's title
