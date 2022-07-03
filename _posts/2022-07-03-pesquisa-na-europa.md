@@ -16,6 +16,7 @@ permalink: /pesquisa-na-europa-1/
 
 Link: <https://jobs.uni-jena.de/jobposting/c40222647fab78da8bb555afc5de0169fd43b5850?ref=deutsche%20Auss&fbclid=IwAR31wFGmdxVMBkw42QWhtEgvVd-m5ywyiQqXav0RKknqx_45m2w-wrEYW5g>
 
+<hr>
 
 #### three visiting fellowships at the Averroes Edition tenable in Cologne for a period of one to three months between 1 October 2022 and 20 September 2023.
 
@@ -23,6 +24,7 @@ Link: <https://jobs.uni-jena.de/jobposting/c40222647fab78da8bb555afc5de0169fd43b
 
 link: <https://thomasinstitut.uni-koeln.de/ueber-das-institut/ausschreibungen>
 
+<hr>
 
 #### Dottorato di ricerca 38°ciclo - a.a. 2022-2023
 
