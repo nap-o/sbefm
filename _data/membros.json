@@ -703,15 +703,6 @@
     },
     {
         "model": "appsbefm.associado",
-        "pk": 79,
-        "fields": {
-            "first_name": "UELLINTON VALENTIM CORSI",
-            "lattes": "http://lattes.cnpq.br/9252808194783358",
-            "instituicao": "PUCRS"
-        }
-    },
-    {
-        "model": "appsbefm.associado",
         "pk": 80,
         "fields": {
             "first_name": "Leonardo Tondato de Mello",
