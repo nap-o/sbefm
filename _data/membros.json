@@ -802,15 +802,6 @@
     },
     {
         "model": "appsbefm.associado",
-        "pk": 92,
-        "fields": {
-            "first_name": "Wilson Coimbra Lemke",
-            "lattes": "http://lattes.cnpq.br/5023059856695287",
-            "instituicao": "Universidade Federal do Espírito Santo"
-        }
-    },
-    {
-        "model": "appsbefm.associado",
         "pk": 94,
         "fields": {
             "first_name": "João Victor de Souza Silva",
