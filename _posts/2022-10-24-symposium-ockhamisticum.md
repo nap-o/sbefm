@@ -8,6 +8,8 @@ title: Symposium Ockhamisticum
 permalink: /symposium-ockhamisticum/
 ---
 
+<p>Notícia sobre evento que ocorrerá nos dias 03 e 04 de novmebro de 2022.</p>
+
 #### Symposium Ockhamisticum
 <p>Data: 3 e 4 de novembro de 2022</p>
 <p>Horário: 13h30min às 17h30min.</p>
