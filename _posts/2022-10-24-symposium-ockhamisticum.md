@@ -15,7 +15,8 @@ permalink: /symposium-ockhamisticum/
 <p>Horário: 13h30min às 17h30min.</p>
 <p>Local: Escola de Humanidades, Prédio 8, Auditório 305, PUCRS</p>
 <br />
-<p>Link para a inscrição: <https://forms.gle/qstQCK3vN1kn9NUV9>{:target="_blank"} </p>
+Link para a inscrição: <https://forms.gle/qstQCK3vN1kn9NUV9>{:target="_blank"}
+<br />
 
 
 {% include aligner.html images="posts/symposium_okham_1.jpeg" column=1 %}
