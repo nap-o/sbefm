@@ -8,7 +8,7 @@ title: X Colóquio de Filosofia Medieval - UFPel
 permalink: /x-coloquio-ufpel/
 ---
 
-<p>De 08 a 10 de novembro de 2022 ocorrerá o evento online alusivo aos 675 anos da morte de Guilherme de Ockham.</p>
+<p>O evento online alusivo aos 675 anos da morte de Guilherme de Ockham ocorrerá de 08 a 10 de novembro de 2022.</p>
 <p>As conferências serão através da plataforma Google Meet e terão duração de 1h30.</p>
 
 #### X Colóquio de Filosofia Medieval - UFPel
@@ -20,5 +20,5 @@ Link para a inscrição: <https://forms.gle/BzhrbZWEhJJz1j9f8>{:target="_blank"}
 <br />
 
 
-{% include aligner.html images="posts/x_coloquio_ufpel_0" column=1 %}
-{% include aligner.html images="posts/x_coloquio_ufpel_1" column=1 %}
+{% include aligner.html images="posts/x_coloquio_ufpel_0.jpeg" column=1 %}
+{% include aligner.html images="posts/x_coloquio_ufpel_1.jpeg" column=1 %}
