@@ -8,7 +8,7 @@ title:  V Congresso Internacional Cusano de Latinoamérica - De coniecturis
 permalink: /v-congresso-cusano-latinoamerica/
 ---
 
-<p>O Círculo de Estudios Cusanos de Buenos Aires y Instituto de Filosofía, Universidad de Buenos Aires junto a Società Cusaniana (Torino) y Kueser Akademie für Europäische Geistesgeschichte (Bernkastel-Kues) invita a participar del <b>V Congreso Internacional Cusano de Latinoamérica</b> <i>De coniecturis</i>. Fuentes, desarrollo y proyecciones del ars coniecturalis a realizarse en <b>Buenos Aires del 08 al 11 de Agosto de 2023</b>.</p>
+<p>O Círculo de Estudios Cusanos de Buenos Aires y Instituto de Filosofía, Universidad de Buenos Aires junto a Società Cusaniana (Torino) y Kueser Akademie für Europäische Geistesgeschichte (Bernkastel-Kues) invita a participar del <b>V Congreso Internacional Cusano de Latinoamérica</b> - <i>De coniecturis</i>. Fuentes, desarrollo y proyecciones del ars coniecturalis a realizarse en <b>Buenos Aires del 08 al 11 de Agosto de 2023</b>.</p>
 
 #### V CONGRESO INTERNACIONAL CUSANO DE LATINOAMÉRICA De coniecturis. 
 
@@ -17,6 +17,6 @@ permalink: /v-congresso-cusano-latinoamerica/
 <p>En virtud de la pluralidad de temas y perspectivas que trae este escrito cusano, invitamos a participar de nuestro V Congreso Internacional Cusano de Latinoamérica, con la intención de abordar conjuntamente las fuentes, los desarrollos y las derivas modernas y contemporáneas del ars coniecturalis a través de sus implicancias metafísicas, cosmológicas, antropológicas, epistemológicas, estéticas y éticas.</p>
 <p>Las propuestas se recibirán hasta el 15 de mayo de 2023 en <vcongresocusano@gmail.com>. En ellas debe figurar: nombre y apellido, pertenencia institucional y un resumen de alrededor de 300 palabras que será sometido a referato.</p>
 
-<p>Veja o [folder](http://sbefm.com/assets/docs/v_congresso_cusano.pdf){:target="_blank"} para mais informações.</p>
+Veja o [folder](http://sbefm.com/assets/docs/v_congresso_cusano.pdf){:target="_blank"} para mais informações.
 
 {% include aligner.html images="posts/circulo_estudos_1.png" column=1 %}
