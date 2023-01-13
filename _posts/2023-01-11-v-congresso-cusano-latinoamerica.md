@@ -17,7 +17,6 @@ permalink: /v-congresso-cusano-latinoamerica/
 <p>Las propuestas se recibirán hasta el 15 de mayo de 2023 en vcongresocusano@gmail.com. En ellas debe figurar: nombre y apellido, pertenencia institucional y un resumen de alrededor de 300 palabras que será sometido a referato.</p>
 
 <p>Veja o folder para mais informações:</p>
-[Folder]({% link posts/docs/v_congresso_cusano.pdf %})
-teste: <http://sbefm.com/posts/docs/v_congresso_cusano.pdf>{:target="_blank"}
+[Clique para abrir](http://sbefm.com/posts/docs/v_congresso_cusano.pdf){:target="_blank"}
 
 {% include aligner.html images="posts/circulo_estudos_1.png" column=1 %}

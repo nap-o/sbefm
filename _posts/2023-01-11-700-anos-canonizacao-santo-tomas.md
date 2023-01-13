@@ -18,6 +18,6 @@ permalink: /700-anos-canonizacao-santo-tomas/
 <p>Comité Organizador del Congreso Tomista Internacional</p>
 
 <p>Veja o folder para mais informações:</p>
-[Folder]({% link posts/docs/congresso_tomista_chile.pdf %})
+[Clique para abrir](http://sbefm.com/posts/docs/congresso_tomista_chile.pdf){:target="_blank"}
 
 {% include aligner.html images="posts/tomista_chile_1.png" column=1 %}
