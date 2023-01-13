@@ -15,5 +15,5 @@ permalink: /xxvii-annual-colloquium-siepm/
 <p>Local: Trento (Italy) - 13-15 September 2023</p>
 <p>Inscrições até: 31/01/2023.</p>
 <p>Em particular, chamamos  a atenção para o seguinte fato: "3. Stipends. Brepols-SIEPM stipend to facilitate attending the colloquium are available both to SIEPM members and non-SIEPM members under the age of 35 or from low currency countries. Deadline for applying is April 15, 2023: </p>
-Maiores informações em <https://hiw.kuleuven.be/siepm/siepm-2023#Program>{:target="_blank"}
+Maiores informações em <https://hiw.kuleuven.be/siepm/siepm-2023>{:target="_blank"}
 <br />
