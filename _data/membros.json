@@ -898,5 +898,32 @@
             "lattes": "http://lattes.cnpq.br/6108625523325213",
             "instituicao": "Universidade Estadual do Maranhão"
         }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 115,
+        "fields": {
+            "first_name": "Aline Medeiros Ramos",
+            "lattes": "http://lattes.cnpq.br/0093370973613683",
+            "instituicao": "Université du Québec à Trois-Rivières"
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 116,
+        "fields": {
+            "first_name": "Mauro Luiz do Nascimento Júnior",
+            "lattes": "http://lattes.cnpq.br/4906874867763063",
+            "instituicao": "Universidade Federal de Juiz de Fora (UFJF)"
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 117,
+        "fields": {
+            "first_name": "Rogério Tadeu Mesquita Marques",
+            "lattes": "http://lattes.cnpq.br/8573733984982372",
+            "instituicao": "PUC-RS"
+        }
     }
 ]
