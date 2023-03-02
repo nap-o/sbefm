@@ -925,5 +925,14 @@
             "lattes": "http://lattes.cnpq.br/8573733984982372",
             "instituicao": "PUC-RS"
         }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 118,
+        "fields": {
+            "first_name": "João Victor de Souza Silva",
+            "lattes": "http://lattes.cnpq.br/8602899974662325",
+            "instituicao": "UFJF"
+        }
     }
 ]
