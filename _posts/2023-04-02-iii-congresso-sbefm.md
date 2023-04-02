@@ -20,7 +20,7 @@ A Comissão organizadora aceitará submissões de comunicações que envolvam te
 #### Conferências plenárias
 - Camila Ezidio – Universidade do Porto – UFBA
 - José Higuera Rubio – UNED, Espanha
-- Márcio Cenci – UNIFRA
+- Márcio Cenci – UFN
 - Marco Aurélio Oliveira da Silva – UFBA
 - Maria Simone Marinho Nogueira –  DFIL/UEPB
 - Natalia Jakubecki – Universidad de Buenos Aires, Argentina
@@ -56,7 +56,7 @@ A Comissão organizadora indicará posteriormente a data para submissão de arti
 
 O atual estágio da pesquisa em história da filosofia medieval parece trazer desafios próprios e exigências de formação bastante específicas. Com o objetivo de discutir o atual perfil internacional exigido de pesquisadoras e pesquisadores da área bem como os novos instrumentos de pesquisa, a SBEFM está organizando a I Escola de Inverno na qual discutiremos os seguintes temas:
 
-- Mini-curso de iniciação à paleografia
+- Minicurso de iniciação à paleografia
 - Estratégias de publicação internacional
 - Instrumentos eletrônicos de pesquisa
 - Mercado de trabalho e bolsas de pesquisa 
