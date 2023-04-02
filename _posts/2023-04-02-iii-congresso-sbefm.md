@@ -68,14 +68,14 @@ A participação é aberta a todas as pessoas interessadas na área. As inscriç
 <hr>
 
 #### Comissão Científica:
-Alfredo Culleton – UFRGS
-Andrey Ivanov – UNESP 
-Lúcio Álvaro Marques - UFTM
-Manoel Vasconcellos  - UFPEL
-Napoleão Azevedo – UNILA
-Nilo Silva - UFCA
-Roberta Miquelanti - UFBA
+- Alfredo Culleton – UFRGS
+- Andrey Ivanov – UNESP 
+- Lúcio Álvaro Marques - UFTM
+- Manoel Vasconcellos  - UFPEL
+- Napoleão Azevedo – UNILA
+- Nilo Silva - UFCA
+- Roberta Miquelanti - UFBA
 
 #### Comissão Organizadora
-Alfredo Storck – UFRGS
-Ana Rieger Schmidt - UFRGS
+- Alfredo Storck – UFRGS
+- Ana Rieger Schmidt - UFRGS
