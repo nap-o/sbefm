@@ -72,7 +72,7 @@ A participação é aberta a todas as pessoas interessadas na área. As inscriç
 - Andrey Ivanov – UNESP 
 - Lúcio Álvaro Marques - UFTM
 - Manoel Vasconcellos  - UFPEL
-- Napoleão Azevedo – UNILA
+- Napoleão Schoeller de Azevedo Júnior – UNILA
 - Nilo Silva - UFCA
 - Roberta Miquelanti - UFBA
 
