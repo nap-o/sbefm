@@ -934,5 +934,23 @@
             "lattes": "http://lattes.cnpq.br/8602899974662325",
             "instituicao": "UFJF"
         }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 119,
+        "fields": {
+            "first_name": "Willian Kalinowski",
+            "lattes": "http://lattes.cnpq.br/5600315101126405",
+            "instituicao": "UFPel"
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 120,
+        "fields": {
+            "first_name": "Fábio Gai Pereira",
+            "lattes": "http://lattes.cnpq.br/7557812906493440",
+            "instituicao": "UFRGS"
+        }
     }
 ]
