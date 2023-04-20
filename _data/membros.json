@@ -952,5 +952,14 @@
             "lattes": "http://lattes.cnpq.br/7557812906493440",
             "instituicao": "UFRGS"
         }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 121,
+        "fields": {
+            "first_name": "Umbelina Maria Galvão de Moura ",
+            "lattes": "http://lattes.cnpq.br/8313884798540514",
+            "instituicao": "PUC-RS"
+        }
     }
 ]
