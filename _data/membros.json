@@ -957,9 +957,27 @@
         "model": "appsbefm.associado",
         "pk": 121,
         "fields": {
-            "first_name": "Umbelina Maria Galvão de Moura ",
+            "first_name": "Umbelina Maria Galvão de Moura",
             "lattes": "http://lattes.cnpq.br/8313884798540514",
             "instituicao": "PUC-RS"
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 122,
+        "fields": {
+            "first_name": "Cláudio André Lottermann",
+            "lattes": "http://lattes.cnpq.br/1356446778941153",
+            "instituicao": "Universidade São Francisco (USF)"
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 123,
+        "fields": {
+            "first_name": "Jeferson da Costa Valadares",
+            "lattes": "http://lattes.cnpq.br/9300156549439907",
+            "instituicao": "ENS-Lyon / ABF / EMERJ"
         }
     }
 ]
