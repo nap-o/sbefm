@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Christine de Pizan and the Querelle de Femmes - perspectives on the history of philosophy
+title: Christine de Pizan and the Querelle de Femmes
 #color: rgb(250, 50, 50)
 #feature-img: "assets/img/pexels/triangular.jpeg"
 #thumbnail: "assets/img/pexels/manuscrito2.jpg"
