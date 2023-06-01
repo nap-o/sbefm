@@ -979,5 +979,23 @@
             "lattes": "http://lattes.cnpq.br/9300156549439907",
             "instituicao": "ENS-Lyon / ABF / EMERJ"
         }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 124,
+        "fields": {
+            "first_name": "Guilherme Ferreira da Silva",
+            "lattes": "http://lattes.cnpq.br/4628237642460017",
+            "instituicao": "Universidade Estadual de Feira de Santana (UEFS)"
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 125,
+        "fields": {
+            "first_name": "Ermilton César Sousa Pinheiro",
+            "lattes": "http://lattes.cnpq.br/2255748484760868",
+            "instituicao": "PPGFIL - UFMA"
+        }
     }
 ]
