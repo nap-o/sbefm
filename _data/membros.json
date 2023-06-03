@@ -997,5 +997,14 @@
             "lattes": "http://lattes.cnpq.br/2255748484760868",
             "instituicao": "PPGFIL - UFMA"
         }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 126,
+        "fields": {
+            "first_name": "Maria Ivone Pereira de Miranda Fedeli (Ir. Anna Maria Fedeli)",
+            "lattes": "http://lattes.cnpq.br/4831697646412740",
+            "instituicao": "FALSAFA – PUC-SP"
+        }
     }
 ]
