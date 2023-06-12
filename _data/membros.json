@@ -1006,5 +1006,14 @@
             "lattes": "http://lattes.cnpq.br/4831697646412740",
             "instituicao": "FALSAFA – PUC-SP"
         }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 127,
+        "fields": {
+            "first_name": "Matheus Jeske Vahl",
+            "lattes": "http://lattes.cnpq.br/0162218728151259",
+            "instituicao": "Universidade Federal de Pelotas"
+        }
     }
 ]
