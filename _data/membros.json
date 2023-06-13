@@ -1015,5 +1015,14 @@
             "lattes": "http://lattes.cnpq.br/0162218728151259",
             "instituicao": "Universidade Federal de Pelotas"
         }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 128,
+        "fields": {
+            "first_name": "Cristiane Negreiros Abbud Ayoub",
+            "lattes": "http://lattes.cnpq.br/4982038970033288",
+            "instituicao": "UFABC"
+        }
     }
 ]

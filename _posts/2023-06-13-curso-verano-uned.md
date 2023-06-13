@@ -26,7 +26,7 @@ La poliédrica figura de Juan Luis Vives no tiene parangón en la historia del p
 - Puedes elegir la asistencia presencial o la asistencia online en directo o en diferido.
 
 #### Outras infomrações
-- As informácões completas estão no site do evento: ["https://extension.uned.es/actividad/idactividad/30575"](https://extension.uned.es/actividad/idactividad/30575){:target="_blank"}
+- As informácões completas estão no site do evento: [https://extension.uned.es/actividad/idactividad/30575](https://extension.uned.es/actividad/idactividad/30575){:target="_blank"}
 
 #### Programa
 - Vives inventa la novela de detectives - José Luis Villacañas Berlanga (Universidad Complutense de Madrid)
