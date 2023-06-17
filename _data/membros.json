@@ -1024,5 +1024,14 @@
             "lattes": "http://lattes.cnpq.br/4982038970033288",
             "instituicao": "UFABC"
         }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 129,
+        "fields": {
+            "first_name": "Anselmo Tadeu Ferreira",
+            "lattes": "http://lattes.cnpq.br/7848440877036848",
+            "instituicao": "Universidade Federal de Uberlândia (UFU/IFILO)"
+        }
     }
 ]
