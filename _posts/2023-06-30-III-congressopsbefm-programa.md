@@ -14,7 +14,7 @@ A Sociedade Brasileira para o Estudo da Filosofia Medieval (SBEFM) divulga a pro
 
 Além dos horários e datas, outras informações foram disponibilizadas: "Mapa do local", "Transporte", "Acesso à rede wireless", entre outras.
 
-Para baixar a programção, [clique aqui.](http://sbefm.com/assets/docs/v_congresso_cusano.pdf){:target="_blank"} 
+Para baixar a programção, [clique aqui.](http://sbefm.com/assets/docs/iii_congresso_sbefm_programa.pdf){:target="_blank"} 
 
 
 <br />
