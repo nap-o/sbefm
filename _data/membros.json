@@ -1033,5 +1033,23 @@
             "lattes": "http://lattes.cnpq.br/7848440877036848",
             "instituicao": "Universidade Federal de Uberlândia (UFU/IFILO)"
         }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 130,
+        "fields": {
+            "first_name": "Célio Juliano Barroso Trindade",
+            "lattes": "http://lattes.cnpq.br/7900006831887506",
+            "instituicao": "UFRGS"
+        }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 131,
+        "fields": {
+            "first_name": "Rafael Bosch",
+            "lattes": "http://lattes.cnpq.br/7939374328300459",
+            "instituicao": "Pesquisador de pós-doutorado pela Universidade de São Paulo"
+        }
     }
 ]
