@@ -1051,5 +1051,14 @@
             "lattes": "http://lattes.cnpq.br/7939374328300459",
             "instituicao": "Pesquisador de pós-doutorado pela Universidade de São Paulo"
         }
+    },
+    {
+        "model": "appsbefm.associado",
+        "pk": 132,
+        "fields": {
+            "first_name": "Marcos Rohling",
+            "lattes": "http://lattes.cnpq.br/1426156565430729",
+            "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia Catarinense - IFC"
+        }
     }
 ]
