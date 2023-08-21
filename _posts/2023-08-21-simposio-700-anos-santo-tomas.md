@@ -10,9 +10,6 @@ permalink: /simposio-700-anos-santo-tomas/
 
 De 28 de agosto até 04 de setembro de 2023, organizado pelo Departamento de Filosofia/ PPG em Filosofia da Universidade Federal de Pelotas, ocorrerá o Simpósio Internacional em comemoração aos 700 anos da canonização de Santo Tomás de Aquino (1323 - 2023).
 
-
-## Simpósio Internacional em comemoração aos 700 anos da canonização de Santo Tomás de Aquino
-
 {% include aligner.html images="posts/simposio_700_anos.jpg" column=1 %}
 
 #### Conferências (on-line e presencial)
