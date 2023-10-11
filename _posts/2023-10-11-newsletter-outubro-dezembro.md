@@ -24,10 +24,10 @@ Camila Ezídio (Comunicação - SBEFM)
 
 #### Notícias SBEFM
 
-No último Congresso da Sociedade Brasileira para o Estudo da Filosofia medieval, realizado em Junho deste ano na Universidade Federal do Rio Grande do Sul (UFRGS), foi eleita uma nova diretoria para a SBEFM, conheça agora seus membros:
+No último Congresso da Sociedade Brasileira para o Estudo da Filosofia medieval, realizado em Julho deste ano na Universidade Federal do Rio Grande do Sul (UFRGS), foi eleita uma nova diretoria para a SBEFM, conheça agora seus membros:
 
 - Presidente: Andrey Ivanov (UNESP)
-- Vice-presidente: Simone Marinho (UECE)
+- Vice-presidente: Simone Marinho (UEPB)
 - Tesoureiro: Marcio Cenci (UFN)
 - Secretário: Marco Aurélio Oliveira (UFBA)
 - Secretária: Cristiane Negreiros Abbud Ayoub (UFABC)
