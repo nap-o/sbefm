@@ -8,8 +8,6 @@ title: Newsletter - Março
 permalink: /newsletter-marco-2024/
 ---
 
-**Sobre a Newsletter SBEFM**
-
 A newsletter da SBEFM desponta como uma tentativa de construir um espaço de informação, comunicação e interação entre estudantes, pesquisadores, pesquisadoras, professores e professoras de filosofia medieval no Brasil.
 
 Camila Ezídio <br />
