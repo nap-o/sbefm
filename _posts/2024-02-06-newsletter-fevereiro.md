@@ -5,7 +5,7 @@ title: Newsletter - Fevereiro
 #feature-img: "assets/img/pexels/triangular.jpeg"
 #thumbnail: "assets/img/pexels/manuscrito2.jpg"
 #tags: [Mermaid, Highlight, Markdown]
-permalink: /newsletter-fevereiro-2023/
+permalink: /newsletter-fevereiro-2024/
 ---
 
 A newsletter da SBEFM desponta como uma tentativa de construir um espaço de informação, comunicação e interação entre estudantes, pesquisadores, pesquisadoras, professores e professoras de filosofia medieval no Brasil.
