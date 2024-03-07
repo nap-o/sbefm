@@ -14,7 +14,7 @@ Camila Ezídio <br />
 Comunicação - SBEFM
 
 #### Eventos
-- 34TH MEETING: **KMEDIEVAL PHILOSOPHY NETWORK IN THE UK** — [info](https://www.medphiluk.com){:target="_blank"}
+- 34TH MEETING: **MEDIEVAL PHILOSOPHY NETWORK IN THE UK** — [info](https://www.medphiluk.com){:target="_blank"}
 - IV Colóquio Inter-Congresso Latino-Americano de Filosofia Medieval, Montevideo, Uruguai, 23-24 de maio de 2024 (Híbrido) - **Presença e trajectórias da filosofia na Idade Média** — [info](https://coloquiointercongresorlfm2024.blogspot.com){:target="_blank"}
 - **Medieval Philosophy Reading Group** - University of Cambridge (Híbrido) — [info](https://www.phil.cam.ac.uk/seminars-phil/medieval-phil){:target="_blank"}
 - **The Reception of Classical Antiquity in Erasmus and the Northern Renaissance**, 15 de Março — Erasmus University Rotterdam (Híbrido) — [info](https://www.eur.nl/en/esphil/events/conference-reception-classical-antiquity-erasmus-and-northern-renaissance-2024-03-15){:target="_blank"}
