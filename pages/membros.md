@@ -28,7 +28,7 @@ order: 3
 
 <tr>
     <td>Ailton Ferreira Batista  </td>
-    <td>	 — </td>
+    <td>	 - </td>
     <td>http://lattes.cnpq.br/2811990011041470</td>
 </tr>
 
@@ -137,7 +137,7 @@ order: 3
 <tr>
     <td>Cecilia Devia </td>
     <td>Universidad de Buenos Aires</td>
-    <td> — </td>
+    <td> - </td>
 </tr>
 
 <tr>
@@ -179,7 +179,7 @@ order: 3
 <tr>
     <td>Cyro Pereira  </td>
     <td>	PUC- PR</td>
-    <td> — </td>
+    <td> - </td>
 </tr>
 
 <tr>
@@ -244,8 +244,8 @@ order: 3
 
 <tr>
     <td>Everton Grein  </td>
-    <td> — </td>
-    <td> — </td>
+    <td> - </td>
+    <td> - </td>
 </tr>
 
 <tr>
@@ -383,7 +383,7 @@ order: 3
 <tr>
     <td>Jorgy Felipe Rosa Artilles  </td>
     <td>	Unyead</td>
-    <td> — </td>
+    <td> - </td>
 </tr>
 
 <tr>
@@ -418,8 +418,8 @@ order: 3
 
 <tr>
     <td>Kleyton Duarte de Souza	Claretiano	 </td>
-    <td >— </td>
-    <td> — </td>
+    <td> - </td>
+    <td> - </td>
 </tr>
 
 <tr>
@@ -484,7 +484,7 @@ order: 3
 
 <tr>
     <td>Luis Felipe Alves Oliveira	 </td>
-    <td>UNICAMP 	</td>
+    <td>UNICAMP	</td>
     <td>http://lattes.cnpq.br/7214292337210300</td>
 </tr>
 
@@ -569,7 +569,7 @@ order: 3
 <tr>
     <td>Matheus Queiroz 	 </td>
     <td>UFPA</td>
-    <td> — </td>
+    <td> - </td>
 </tr>
 
 <tr>
@@ -611,13 +611,13 @@ order: 3
 <tr>
     <td>Natalia Jakubecki	 </td>
     <td>UBA</td>
-    <td> — </td>
+    <td> - </td>
 </tr>
 
 <tr>
     <td>Nicolás Lázaro  </td>
     <td>	Universidad Católica de Santa Fe</td>
-    <td> — </td>
+    <td> - </td>
 </tr>
 
 <tr>
@@ -729,7 +729,7 @@ order: 3
 </tr>
 
 <tr>
-    <td>Rodrigo Camilo Camargo 	 </td>
+    <td>Rodrigo Camilo Camargo	 </td>
     <td>Université de Montréal </td>
     <td>http://lattes.cnpq.br/2749079631587057</td>
 </tr>
@@ -845,7 +845,7 @@ order: 3
 <tr>
     <td>Yasser Capistrano Yusuf  </td>
     <td>	Cruzeiro do Sul</td>
-    <td> — </td>
+    <td> - </td>
 </tr>
 
    </tbody>
