@@ -21,7 +21,7 @@ Comunicação - SBEFM
 - **LEEM – GRUPO DE LECTURA: HILDEGARDA DE BINGEN, SCIVIAS**, fecha de inicio: 18 de abril, quincenal, (on-line) — [info](https://noticias.unsam.edu.ar/2024/04/05/leem-grupo-de-lectura-hildegarda-de-bingen-scivias/){:target="_blank"}
 
 #### Oportunidades
-- [Call for Applications] Summer School | Medieval and Early Modern Theories of Cognition, IF- U. Porto. Deadline: 30 April 2024 — [info](https://sigarra.up.pt/flup/pt/noticias_geral.ver_noticia?p_nr=172946){:target="_blank"}
+- Call for Applications: Summer School | Medieval and Early Modern Theories of Cognition, IF- U. Porto. Deadline: 30 April 2024 — [info](https://sigarra.up.pt/flup/pt/noticias_geral.ver_noticia?p_nr=172946){:target="_blank"}
 
 #### Chamadas
 - Dossiê Revista Sísifo: **A produção Intelectual Feminina: Antiguidade, Idade Média e Renascimento**. Deadline: 25 de março a 30 de julho — [info](https://www.revistasisifo.com/p/submissao.html){:target="_blank"}
