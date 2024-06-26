@@ -24,8 +24,6 @@ Comunicação - SBEFM
 #### Chamadas
 - **Revista Inconfidentia** — Chamada aberta para o DOSSIÊ v. 9, n. 17, ano 2025 1, artigos ligados à História da arte sacra (barroco e rococó), com submissões até 31 de março de 2025 — [info](https://inconfidentia.famariana.edu.br){:target="_blank"}
 
-<br />
-
 A newsletter mensal da SBEFM tira férias no mês de julho, voltamos em agosto com mais um semestre de informações medievais.
 
 #### Para divulgação e mídia, envie e-mail para: <midia.sbefm@gmail.com>
