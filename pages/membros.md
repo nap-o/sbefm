@@ -31,7 +31,6 @@ order: 3
 <tr>	<td>	Anselmo Tadeu ferreira	</td>	<td>	UFU	</td>	<td>	http://lattes.cnpq.br/7848440877036848	</td>	</tr>
 <tr>	<td>	Anderson D'Arc Ferreira	</td>	<td>	UFPB	</td>	<td>	https://lattes.cnpq.br/4759086506032070	</td>	</tr>
 <tr>	<td>	Arthur da Silva Pinto 	</td>	<td>	PUC-RS   	</td>	<td>	http://lattes.cnpq.br/6829158661348654	</td>	</tr>
-<tr>	<td>	Arthur Schumacher Fermino Rezende	</td>	<td>	UFRGS	</td>	<td>	https://lattes.cnpq.br/3092722393658713	</td>	</tr>
 <tr>	<td>	Augusto Leandro da Silveira 	</td>	<td>	Instituto Brasileiro de Filosofia e Ciência Raimundo Lúlio	</td>	<td>	http://lattes.cnpq.br/6433988770099966	</td>	</tr>
 <tr>	<td>	Camila Melo Silva	</td>	<td>	UFES	</td>	<td>	 https://lattes.cnpq.br/2017735857026111	</td>	</tr>
 <tr>	<td>	Camila Ezídio 	</td>	<td>	UFBA	</td>	<td>	http://lattes.cnpq.br/2831343607435421	</td>	</tr>
@@ -47,7 +46,7 @@ order: 3
 <tr>	<td>	Claudio Pedrosa Nunes 	</td>	<td>	Universidade Federal de Campina Grande	</td>	<td>	http://lattes.cnpq.br/5680381675928499	</td>	</tr>
 <tr>	<td>	Cleber Duarte Coelho	</td>	<td>	Universidade Federal de Santa Catarina	</td>	<td>	http://lattes.cnpq.br/3684918892816876	</td>	</tr>
 <tr>	<td>	Cristiane Negreiros Abbud Ayoub	</td>	<td>	UFABC	</td>	<td>	 http://lattes.cnpq.br/4982038970033288	</td>	</tr>
-<tr>	<td>	CRISTIANO DIAS DA SILVA	</td>	<td>	IFSERTAOPE	</td>	<td>	 http://lattes.cnpq.br/6911918355812560	</td>	</tr>
+<tr>	<td>	Cristiano Dias da Silva 	</td>	<td>	IFSERTAOPE	</td>	<td>	 http://lattes.cnpq.br/6911918355812560	</td>	</tr>
 <tr>	<td>	Cyro Pereira 	</td>	<td>	PUC- PR	</td>	<td>	—	</td>	</tr>
 <tr>	<td>	Daiane Rodrigues Costa 	</td>	<td>	Universidade do Vale do Rio dos Sinos	</td>	<td>	http://lattes.cnpq.br/7291433553630261	</td>	</tr>
 <tr>	<td>	Daniel Rodrigues da Costa	</td>	<td>	Universidade de São Paulo	</td>	<td>	http://lattes.cnpq.br/9844380051009498	</td>	</tr>
@@ -67,7 +66,7 @@ order: 3
 <tr>	<td>	Fernanda Liell Bech Dona 	</td>	<td>	UFRGS	</td>	<td>	http://lattes.cnpq.br/7430967863638015	</td>	</tr>
 <tr>	<td>	Francisca Cecília de Carvalho Moura Fé	</td>	<td>	UFRGS)	</td>	<td>	 http://lattes.cnpq.br/8822423275712919	</td>	</tr>
 <tr>	<td>	Francisco Elvis Rodrigues Oliveira	</td>	<td>	Secretaria da Educação do Estado do Ceará	</td>	<td>	http://lattes.cnpq.br/1324160174316643	</td>	</tr>
-<tr>	<td>	Gabriel Guilherme Frigo 	</td>	<td>	UNIVERSIDADE DE CAXIAS DO SUL 	</td>	<td>	http://lattes.cnpq.br/4355228968544489	</td>	</tr>
+<tr>	<td>	Gabriel Guilherme Frigo 	</td>	<td>	Universidade de Caxias do Sul	</td>	<td>	http://lattes.cnpq.br/4355228968544489	</td>	</tr>
 <tr>	<td>	Gilson Damasceno Linhares 	</td>	<td>	UFBA	</td>	<td>	http://lattes.cnpq.br/7751656781225413	</td>	</tr>
 <tr>	<td>	Giovanna Figueiró Lo Iacono	</td>	<td>	UFRGS	</td>	<td>	http://lattes.cnpq.br/3828670089137608	</td>	</tr>
 <tr>	<td>	Gonzalo Tinajeros Arce	</td>	<td>	UNB	</td>	<td>	http://lattes.cnpq.br/0227334995209083	</td>	</tr>
@@ -113,7 +112,7 @@ order: 3
 <tr>	<td>	Márcio Fernandes da Cruz 	</td>	<td>	PUC Minas	</td>	<td>	http://lattes.cnpq.br/7083019418011289	</td>	</tr>
 <tr>	<td>	Marco Aurélio Oliveira da Silva	</td>	<td>	UFBA	</td>	<td>	 http://lattes.cnpq.br/5975737116317202	</td>	</tr>
 <tr>	<td>	Marcos Roberto Nunes Costa	</td>	<td>	UFPE	</td>	<td>	http://lattes.cnpq.br/1136821185537508	</td>	</tr>
-<tr>	<td>	Marcone Costa Cerqueira	</td>	<td>	Néfipo - Núcleo de Ética e Filosofia Política.	</td>	<td>	http://lattes.cnpq.br/8669846807783868	</td>	</tr>
+<tr>	<td>	Marcone Costa Cerqueira	</td>	<td>	Néfipo - Núcleo de Ética e Filosofia Política	</td>	<td>	http://lattes.cnpq.br/8669846807783868	</td>	</tr>
 <tr>	<td>	Marcos Rohling	</td>	<td>	IFC	</td>	<td>	http://lattes.cnpq.br/1426156565430729	</td>	</tr>
 <tr>	<td>	Marcus Paulo Rycembel Boeira 	</td>	<td>	UFRGS 	</td>	<td>	http://lattes.cnpq.br/2064957445315362	</td>	</tr>
 <tr>	<td>	Maria Célia dos Santos 	</td>	<td>	UFCA	</td>	<td>	http://lattes.cnpq.br/4412974216948045	</td>	</tr>
@@ -133,7 +132,7 @@ order: 3
 <tr>	<td>	Nicolás Lázaro 	</td>	<td>	Universidad Católica de Santa Fe	</td>	<td>	—	</td>	</tr>
 <tr>	<td>	Nilo César Batista da Silva	</td>	<td>	Universidade Federal do Cariri	</td>	<td>	http://lattes.cnpq.br/4116174081912984	</td>	</tr>
 <tr>	<td>	Noeli Dutra Rossatto	</td>	<td>	Universidade Federal de Santa Maria	</td>	<td>	http://lattes.cnpq.br/2947312243186882	</td>	</tr>
-<tr>	<td>	Oséas Gabriel de Abreu Macêdo	</td>	<td>	PUCRS / Seminário Concórdia - Faculdade de Teologia	</td>	<td>	 http://lattes.cnpq.br/3177245157394714	</td>	</tr>
+<tr>	<td>	Oséas Gabriel de Abreu Macêdo	</td>	<td>	PUCRS 	</td>	<td>	 http://lattes.cnpq.br/3177245157394714	</td>	</tr>
 <tr>	<td>	Otávio de Lima e Silva 	</td>	<td>	UFMS	</td>	<td>	http://lattes.cnpq.br/0457476639089350	</td>	</tr>
 <tr>	<td>	Paulo Faitanin 	</td>	<td>	UFF	</td>	<td>	http://lattes.cnpq.br/4236254665845426	</td>	</tr>
 <tr>	<td>	Paulo Ricardo Martines	</td>	<td>	UEM	</td>	<td>	http://lattes.cnpq.br/6842263032845173	</td>	</tr>
