@@ -22,7 +22,7 @@ Comunicação - SBEFM
 
 #### Oportunidades
 - **Concurso público** de Provas e Títulos para o cargo de Professor de Carreira do Magistério Superior da Universidade Federal de São Paulo e para o cargo de Professor do Magistério do Ensino Básico, Técnico e Tecnológico (EBTT). Área: Filosofia/História da Filosofia Medieval: filosofia medieval islâmica . Inscrições: de 18 de outubro a 18 de novembro de 2024 — [info](https://phpu.unifesp.br/concurso/inscricao/editais/edital624-2024.htm){:target="_blank"}
-- **Investigador/a Auxiliar** (carreira)|Filosofia, Ética e Religião, subárea de História da Filosofia (Filosofia em Transição: Idade Média tardia e início da Idade Moderna), Universidade do Porto, Portugal. Candidaturas até 22 de novembro de 2024 — [info](https://sigarra.up.pt/flup/pt/noticias_geral.ver_noticia?p_nr=182667){:target="_blank"}
+- **Investigador/a Auxiliar** (carreira) - Filosofia, Ética e Religião, subárea de História da Filosofia (Filosofia em Transição: Idade Média tardia e início da Idade Moderna), Universidade do Porto, Portugal. Candidaturas até 22 de novembro de 2024 — [info](https://sigarra.up.pt/flup/pt/noticias_geral.ver_noticia?p_nr=182667){:target="_blank"}
 
 
 
