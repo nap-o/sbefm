@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  IV Congresso da SBEFM e II Escola de Inverno da SBEFM - *Esse, Intelligere, Vivere*
+title:  IV Congresso da SBEFM e II Escola de Inverno da SBEFM
 #color: rgb(250, 50, 50)
 #feature-img: "assets/img/pexels/triangular.jpeg"
 #thumbnail: "assets/img/pexels/manuscrito2.jpg"
@@ -11,7 +11,7 @@ permalink: /iv-congresso-sbefm/
 A Sociedade Brasileira para o Estudo da Filosofia Medieval lança chamada para apresentação de comunicações no **IV Congresso da SBEFM** e inscrições para o minicurso da **II Escola de Inverno da SBEFM**. O evento acontecerá em São Paulo, entre os dias 07 a 11 de julho de 2025, no IPPRI Unesp e Auditório da Fundação Editora da Unesp - Praça da Sé, 108, 4º e 7º andares - Centro. 
 
 ## IV Congresso da SBEFM e II Escola de Inverno da SBEFM
-### *Esse, Intelligere, Vivere*
+## *Esse, Intelligere, Vivere*
 
 {% include aligner.html images="posts/img-iv-congresso-sbefm.jpeg" column=1 %}
 
@@ -39,7 +39,7 @@ Pelo formulário (contendo título e resumo de até 300 palavras): [https://form
 - Minicurso: 50 reais
 - Ouvintes: 50 reais
 
-##### Pagamento via pix ou transferência bancária após a aprovação do trabalho com envio do comprovante para o e-mail da SBEFM
+#### Pagamento via pix ou transferência bancária após a aprovação do trabalho com envio do comprovante para o e-mail da SBEFM:
 <contatosbefm@gmail.com>, indicando no corpo da mensagem o nome do inscrito (a).
 
 #### Comissão Organizadora
