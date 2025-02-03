@@ -16,7 +16,7 @@ A Sociedade Brasileira para o Estudo da Filosofia Medieval lança chamada para a
 {% include aligner.html images="posts/img-iv-congresso-sbefm.jpeg" column=1 %}
 
 <br />
-O Congresso da SBEFM tem se consolidado como um espaço importante para discutir, repropor e reverberar questões da historiografia relativa ao pensamento medieval. Nesta edição, o congresso possui como tema "Esse, Intelligere, Vivere" que vem proposto para ser discutido no caso da Idade Média, seja no aspecto da tríade em questão, seja em relação a um ou mais desses conceitos nas obras dos autores medievais e estudiosos. O evento contará com sessões plenárias dos conferencistas convidados, sessões temáticas para apresentação de comunicações, e durante o encontro será ofertada uma Escola de Inverno, que abrangerá o minicurso intitulado: Como fazer uma edição crítica: estudos e edição de manuscritos latinos medievais (ver ementa e programação no link para inscrições: [https://forms.gle/ArvuGc3KZdMRyEEM6](https://forms.gle/ArvuGc3KZdMRyEEM6){:target="_blank"}).
+O Congresso da SBEFM tem se consolidado como um espaço importante para discutir, repropor e reverberar questões da historiografia relativa ao pensamento medieval. Nesta edição, o congresso possui como tema "Esse, Intelligere, Vivere" que vem proposto para ser discutido no caso da Idade Média, seja no aspecto da tríade em questão, seja em relação a um ou mais desses conceitos nas obras dos autores medievais e estudiosos. O evento contará com sessões plenárias dos conferencistas convidados, sessões temáticas para apresentação de comunicações, e durante o encontro será ofertada uma Escola de Inverno, que abrangerá o minicurso intitulado: Como fazer uma edição crítica: estudos e edição de manuscritos latinos medievais (ver ementa e programação no link para inscrições no curso: [https://forms.gle/ArvuGc3KZdMRyEEM6](https://forms.gle/ArvuGc3KZdMRyEEM6){:target="_blank"}).
 
 #### Conferencistas convidados:
 - Ana Rieger Schmidt
@@ -37,11 +37,11 @@ Presencial (online somente para doutorandos e mestrandos)
 #### Comunicação dos trabalhos aprovados:
 abril de 2025
 
-#### Inscrição apenas para o minicurso:
-Como a crítica textual ou ecdótica e a paleografia são disciplinas auxiliares ao trabalho em história da filosofia, mas que interessam igualmente a pesquisadores e discentes de outras áreas como a história, museologia, filologia e literatura, serão aceitas inscrições apenas para o minicurso.
-
 #### Prazo para submissão das propostas de comunicação:
-Pelo formulário (contendo título e resumo de até 300 palavras): [https://forms.gle/JcxFTSiYW4oYpbLE9](https://forms.gle/JcxFTSiYW4oYpbLE9){:target="_blank"}, de 1 de fevereiro a 31 de março de 2025.
+Pelo formulário (contendo título e resumo de até 300 palavras): [https://forms.gle/C2uWLuJu4MnqajDAA](https://forms.gle/C2uWLuJu4MnqajDAA){:target="_blank"}, de 1 de fevereiro a 31 de março de 2025.
+
+#### Inscrição apenas para o minicurso:
+Como a crítica textual ou ecdótica e a paleografia são disciplinas auxiliares ao trabalho em história da filosofia, mas que interessam igualmente a pesquisadores e discentes de outras áreas como a história, museologia, filologia e literatura, serão aceitas inscrições apenas para o minicurso. Link: [https://forms.gle/ArvuGc3KZdMRyEEM6](https://forms.gle/ArvuGc3KZdMRyEEM6){:target="_blank"}.
 
 #### Prazo para inscrição no minicurso:
 De 1 de maio a 4 de julho de 2025. A inscrição para apresentação de comunicação e ouvinte inclui a possibilidade de inscrição para o minicurso sem a necessidade de pagamento adicional.
