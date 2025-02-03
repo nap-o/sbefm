@@ -43,7 +43,7 @@ Como a crítica textual ou ecdótica e a paleografia são disciplinas auxiliares
 #### Prazo para submissão das propostas de comunicação:
 Pelo formulário (contendo título e resumo de até 300 palavras): [https://forms.gle/JcxFTSiYW4oYpbLE9](https://forms.gle/JcxFTSiYW4oYpbLE9){:target="_blank"}, de 1 de fevereiro a 31 de março de 2025.
 
-#### Inscrição apenas para o minicurso:
+#### Prazo para inscrição no minicurso:
 De 1 de maio a 4 de julho de 2025. A inscrição para apresentação de comunicação e ouvinte inclui a possibilidade de inscrição para o minicurso sem a necessidade de pagamento adicional.
 
 #### Valor das inscrições: 
