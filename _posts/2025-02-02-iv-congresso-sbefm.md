@@ -16,7 +16,7 @@ A Sociedade Brasileira para o Estudo da Filosofia Medieval lança chamada para a
 {% include aligner.html images="posts/img-iv-congresso-sbefm.jpeg" column=1 %}
 
 <br />
-O Congresso da SBEFM tem se consolidado como um espaço importante para discutir, repropor e reverberar questões da historiografia relativa ao pensamento medieval. Nesta edição, o congresso possui como tema "Esse, Intelligere, Vivere" que vem proposto para ser discutido no caso da Idade Média, seja no aspecto da tríade em questão, seja em relação a um ou mais desses conceitos nas obras dos autores medievais e estudiosos. O evento contará com sessões plenárias dos conferencistas convidados, sessões temáticas para apresentação de comunicações, e durante o encontro será ofertada uma Escola de Inverno, que abrangerá o minicurso intitulado: Como fazer uma edição crítica: estudos e edição de manuscritos latinos medievais (ver ementa e programação no link para inscrições no curso: [https://forms.gle/ArvuGc3KZdMRyEEM6](https://forms.gle/ArvuGc3KZdMRyEEM6){:target="_blank"}).
+O Congresso da SBEFM tem se consolidado como um espaço importante para discutir, repropor e reverberar questões da historiografia relativa ao pensamento medieval. Nesta edição, o congresso possui como tema *"Esse, Intelligere, Vivere"* que vem proposto para ser discutido no caso da Idade Média, seja no aspecto da tríade em questão, seja em relação a um ou mais desses conceitos nas obras dos autores escolásticos e medievais, e estudiosos. O evento contará com sessões plenárias dos conferencistas convidados, sessões temáticas para apresentação de comunicações, e durante o encontro será ofertada uma Escola de Inverno, que abrangerá o minicurso intitulado: Como fazer uma edição crítica: estudos e edição de manuscritos latinos medievais (ver ementa e programação no link para inscrições: [https://forms.gle/ArvuGc3KZdMRyEEM6](https://forms.gle/ArvuGc3KZdMRyEEM6){:target="_blank"}).
 
 #### Conferencistas convidados:
 - Ana Rieger Schmidt
@@ -32,19 +32,18 @@ O Congresso da SBEFM tem se consolidado como um espaço importante para discutir
 Serão aceitas propostas de comunicação de até 20 minutos, seguidas de 10 minutos de discussão. As comunicações poderão ser realizadas em português, espanhol ou inglês.
 
 #### Modalidade do congresso:
-Presencial (online somente para doutorandos e mestrandos)
-
-#### Comunicação dos trabalhos aprovados:
-abril de 2025
+Presencial (remota apenas para doutorandos e mestrandos)
 
 #### Prazo para submissão das propostas de comunicação:
-Pelo formulário (contendo título e resumo de até 300 palavras): [https://forms.gle/C2uWLuJu4MnqajDAA](https://forms.gle/C2uWLuJu4MnqajDAA){:target="_blank"}, de 1 de fevereiro a 31 de março de 2025.
+De 1 de fevereiro a 31 de março de 2025 pelo formulário (contendo título e resumo de até 300 palavras): [https://forms.gle/C2uWLuJu4MnqajDAA](https://forms.gle/C2uWLuJu4MnqajDAA){:target="_blank"}.
+
+#### Comunicação dos trabalhos aprovados: abril de 2025
 
 #### Inscrição apenas para o minicurso:
-Como a crítica textual ou ecdótica e a paleografia são disciplinas auxiliares ao trabalho em história da filosofia, mas que interessam igualmente a pesquisadores e discentes de outras áreas como a história, museologia, filologia e literatura, serão aceitas inscrições apenas para o minicurso. Link: [https://forms.gle/ArvuGc3KZdMRyEEM6](https://forms.gle/ArvuGc3KZdMRyEEM6){:target="_blank"}.
+Como a crítica textual ou ecdótica e a paleografia são disciplinas auxiliares ao trabalho em história da filosofia, mas que interessam igualmente a pesquisadores e discentes de outras áreas como a história, museologia, filologia e literatura, serão aceitas inscrições apenas para o minicurso.
 
 #### Prazo para inscrição no minicurso:
-De 1 de maio a 4 de julho de 2025. A inscrição para apresentação de comunicação e ouvinte inclui a possibilidade de inscrição para o minicurso sem a necessidade de pagamento adicional.
+De 1 de maio a 4 de julho de 2025 pelo link: [https://forms.gle/ArvuGc3KZdMRyEEM6](https://forms.gle/ArvuGc3KZdMRyEEM6){:target="_blank"}. A inscrição para apresentação de comunicação e ouvinte dá direito à inscrição para o minicurso sem a necessidade de pagamento adicional.
 
 #### Valor das inscrições: 
 - Doutores: 100 reais 
