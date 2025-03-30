@@ -14,9 +14,9 @@ Camila Ezídio <br />
 Comunicação - SBEFM
 
 #### Eventos
-- SEMINARIO DEL DOCTORADO EN FILOSOFÍA , Concepciones del alma, el intelecto y la voluntad en Juan, Damasceno, Avicena, Maimónides y Alberto Magno, INICIA EL 8 DE ABRIL, 16 encuentros | 32 h, martes y miércoles de 18 a 20h (Argentina) — [info](https://docs.google.com/forms/d/e/1FAIpQLSc9lebg-RPJZ44SdSTbxcajWNKlJI9j__1cbHSoQn_SpnvauQ/viewform){:target="_blank"}
+- SEMINARIO DEL DOCTORADO EN FILOSOFÍA, Concepciones del alma, el intelecto y la voluntad en Juan, Damasceno, Avicena, Maimónides y Alberto Magno, INICIA EL 8 DE ABRIL, 16 encuentros - 32h, martes y miércoles de 18 a 20h (Argentina) — [info](https://docs.google.com/forms/d/e/1FAIpQLSc9lebg-RPJZ44SdSTbxcajWNKlJI9j__1cbHSoQn_SpnvauQ/viewform){:target="_blank"}
 - 9th International Congress Sociedad Universidad de Córdoba, 3-5 Diciembre 2025 — [info](https://sofime.eu/congresos/ix-congreso-de-sofime/){:target="_blank"}
-- Causality and Contingency | 2nd Summer School on Medieval and Early Modern Philosophy, Universidade do Porto, 25- 28 june — [info](https://ifilosofia.up.pt/activities/memp-summer-school-2025){:target="_blank"}
+- Causality and Contingency - 2nd Summer School on Medieval and Early Modern Philosophy, Universidade do Porto, 25- 28 june — [info](https://ifilosofia.up.pt/activities/memp-summer-school-2025){:target="_blank"}
 - XXIV JORNADA DE ESTUDOS ANTIGOS E MEDIEVAIS, XIV JORNADA INTERNACIONAL DE ESTUDOS ANTIGOS E MEDIEVAIS, VIII CICLO DE ESTUDOS ANTIGOS E MEDIEVAIS, V ENCONTRO INTERNACIONAL DO NÚCLEO INTERDISCIPLINAR CLÁSSICOS NA EDUCAÇÃO “De Prometeu à Inteligência Artificial: caminhos e descaminhos do Intelecto na História”, de 28/07/2025 a 31/07/2025, Universidade Estadual de Maringá, on -line — [info](https://sites.google.com/uem.br/xxivjeam/início){:target="_blank"}
 
 #### Oportunidades
