@@ -52,8 +52,7 @@ De 1 de maio a 4 de julho de 2025 pelo link: [https://forms.gle/ArvuGc3KZdMRyEEM
 - Ouvintes: 50 reais
 
 <br />
-<br />
-<br />
+
 - Chave pix para pagamento: andreyivanov.philo@gmail.com.
 - Enviar comprovante para o e-mail: midia.sbefm@gmail.com, indicando o nome do inscrito (a).
 
