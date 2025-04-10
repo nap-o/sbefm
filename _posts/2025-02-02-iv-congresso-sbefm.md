@@ -51,6 +51,9 @@ De 1 de maio a 4 de julho de 2025 pelo link: [https://forms.gle/ArvuGc3KZdMRyEEM
 - Minicurso: 50 reais
 - Ouvintes: 50 reais
 
+- Chave pix para pagamento: andreyivanov.philo@gmail.com.
+- Enviar comprovante para o e-mail: midia.sbefm@gmail.com, indicando o nome do inscrito (a).
+
 #### Pagamento via pix ou transferência bancária após a aprovação do trabalho
 
 #### Comissão Organizadora:
