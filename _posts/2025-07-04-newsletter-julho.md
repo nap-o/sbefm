@@ -31,7 +31,7 @@ Comunicação - SBEFM
 - Dossiê Especial sobre **Christine de Pizan e a Querelle des Femmes** , prazo para envio dos artigos: 15 de novembro de 2025 — [info](https://revistas.ufpr.br/doispontos/announcement/view/820){:target="_blank"}
 
 #### Lançamentos
-- Livro “A Idade Média | Nascimento do Ocidente” | Hilário Franco Júnior | 3. edição revista e ampliada — [info](https://www.madamu.com.br/aidademedia){:target="_blank"}
+- Livro “A Idade Média - Nascimento do Ocidente” - Hilário Franco Júnior - 3. edição revista e ampliada — [info](https://www.madamu.com.br/aidademedia){:target="_blank"}
 
 
 #### Para divulgação e mídia, envie e-mail para: <midia.sbefm@gmail.com>
