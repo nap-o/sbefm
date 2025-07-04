@@ -20,10 +20,6 @@ Comunicação - SBEFM
 - 9th International Congress Sociedad de Filosofía Universidad de Córdoba, 3-5 Diciembre 2025, deadline 31/07 — [info](https://sofime.eu/congresos/ix-congreso-de-sofime/ix-congreso-de-sofime/){:target="_blank"}
 - XII Jornadas de Estudios Clásicos y Medievales: “Diálogos Culturales. La representación del mundo en la Antigüedad y en la Edad Media: poesía, filosofía e história”. Ensenada, 1, 2 y 3 de octubre de 2025, Universidad Nacional de La Plata, deadline 15/08 — [info](https://congresos.fahce.unlp.edu.ar/jornadasecym/xii-jornadas-2025){:target="_blank"}
 
-- zz — [info](www){:target="_blank"}
-- zz — [info](www){:target="_blank"}
-
-
 #### Oportunidades
 - ABERTURA de inscrições para o cargo de Professor Doutor da Área de História da Filosofia Medieval do Departamento de Filosofia da FFLCH-USP. **Período de inscrição**: de 02/07 a 29/09/2025 até às 17h (horário de Brasília) — [info](https://filosofia.fflch.usp.br/node/11933){:target="_blank"}
 
