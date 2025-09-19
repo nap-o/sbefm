@@ -8,7 +8,7 @@ title: Newsletter - Julho
 permalink: /newsletter-julho-2025/
 ---
 
-A newsletter da SBEFM desponta como uma tentativa de construir um espaço de informação, comunicação e interação entre estudantes, pesquisadores, pesquisadoras, professores e professoras de filosofia medieval no Brasil
+A newsletter da SBEFM desponta como uma tentativa de construir um espaço de informação, comunicação e interação entre estudantes, pesquisadores, pesquisadoras, professores e professoras de filosofia medieval no Brasil.
 
 Camila Ezídio <br />
 Comunicação - SBEFM
