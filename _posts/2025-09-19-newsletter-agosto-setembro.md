@@ -21,7 +21,7 @@ Comunicação - SBEFM
 - A revista Trilhas Filosóficas (v.18, n.1, 2025) convida investigadores doutores em Filosofia a submeterem artigos para o Dossiê **“Filosofia Medieval Judaica e Islâmica”**. Prazo para submissões: até 30 de setembro de 2025 — [info](https://periodicos.apps.uern.br/index.php/RTF/about/submissions){:target="_blank"}
 
 #### Lançamentos
-- Livro **A Idade Média | Nascimento do Ocidente**. Hilário Franco Júnior | 3. edição revista e ampliada — [info](https://www.madamu.com.br/aidademedia){:target="_blank"}
+- Livro **A Idade Média - Nascimento do Ocidente**. Hilário Franco Júnior - 3. edição revista e ampliada — [info](https://www.madamu.com.br/aidademedia){:target="_blank"}
 - Livro **Enfoques sobre Deus em Tomás de Aquino**. André Ricardo Randazzo Gomes — [info](https://atenaeditora.com.br/catalogo/ebook/enfoques-sobre-deus-em-tomas-de-aquino){:target="_blank"}
 
 
