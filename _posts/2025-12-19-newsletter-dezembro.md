@@ -27,8 +27,8 @@ Camila Ezídio Comunicação – SBEFM
 
 #### Lançamentos
 Livros
-- COR INQUIETUM: As Confissões de Santo Agostinho, Silvia Contaldo — [info](https://www.inmensaeditorial.com.br/produto/cor-inquietum-silvia-contaldo/){:target="_blank"}
-- A teoria do preço justo: Martín de Azpilcueta entre a originalidade e a tradição, Marlo Nascimento — [info](https://www.amazon.com.br/teoria-preço-justo-Azpilcueta-originalidade/dp/652706988X/ref=tmm_pap_swatch_0){:target="_blank"}
+- *COR INQUIETUM: As Confissões de Santo Agostinho*, Silvia Contaldo — [info](https://www.inmensaeditorial.com.br/produto/cor-inquietum-silvia-contaldo/){:target="_blank"}
+- *A teoria do preço justo: Martín de Azpilcueta entre a originalidade e a tradição*, Marlo Nascimento — [info](https://www.amazon.com.br/teoria-preço-justo-Azpilcueta-originalidade/dp/652706988X/ref=tmm_pap_swatch_0){:target="_blank"}
 
 
 #### Para divulgação e mídia, envie e-mail para: <midia.sbefm@gmail.com>
