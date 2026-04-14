@@ -14,7 +14,8 @@ A newsletter entra de férias e volta em março de 2026.
 
 A diretoria da SBEFM deseja aos seus membros um feliz natal um próspero ano novo!
 
-Camila Ezídio Comunicação – SBEFM
+Camila Ezídio <br />
+Comunicação – SBEFM
 
 #### Eventos
 - THE XVITH INTERNATIONAL CONGRESS OF THE SIEPM ZAGREB, 23 –27 AUGUST 2027 “**PHILOSOPHY IN DIALOGUE IN THE MIDDLE AGES**”, deadline: 15 November 2026. — [info](https://hiw.kuleuven.be/siepm/siepm-2027){:target="_blank"}

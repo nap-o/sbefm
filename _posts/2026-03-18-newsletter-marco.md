@@ -10,7 +10,8 @@ permalink: /newsletter-marco-2026/
 
 A newsletter da SBEFM desponta como uma tentativa de construir um espaço de informação, comunicação e interação entre estudantes, pesquisadores, pesquisadoras, professores e professoras de filosofia medieval no Brasil.
 
-Camila Ezídio Comunicação – SBEFM
+Camila Ezídio <br />
+Comunicação – SBEFM
 
 #### Eventos
 - International Micrologus Conference Transcultural Conferences of the UAI : **Verbositas Arabica, implicatio Graeca, paucitas Latina** Multilingual Text Traditions in the Middle Ages (8th –14th Century) — Louvain-la-Neuve (UCLouvain) and Leuven (KU Leuven) Dates: 20-22 January 2027 Deadline for submission: 27 March 2026 — [info](https://rmblf.be/2026/03/16/appel-a-contribution-verbositas-arabica-implicatio-graeca-paucitas-latina-multilingual-text-traditions-in-the-middle-ages-8th-14th-century/){:target="_blank"}
