@@ -10,7 +10,8 @@ permalink: /newsletter-abril-2026/
 
 A newsletter da SBEFM desponta como uma tentativa de construir um espaço de informação, comunicação e interação entre estudantes, pesquisadores, pesquisadoras, professores e professoras de filosofia medieval no Brasil.
 
-Camila Ezídio Comunicação – SBEFM
+Camila Ezídio
+Comunicação – SBEFM
 
 #### Eventos
 - Seminário de doctorado: **Filosofía política y economía en el contexto parisino de los siglos XIII y XIV**, Universidade de Buenos Aires, on-line, inscrições até dia 15/04 — [info](https://posgrado.filo.uba.ar/SemDoc2026-Giglio){:target="_blank"}
